@@ -8,7 +8,7 @@ I am a full stack web developer with some background in DevOps. I have a degree 
 
 ## Work Experience
 
-- Software Engineer at Swirge, 2021 - Present
+- Software Engineer at Swirge, 2019 - Present
 
 ## Notable Projects
 
@@ -16,7 +16,7 @@ I am a full stack web developer with some background in DevOps. I have a degree 
 
 ## Education
 
-- Bachelor's degree in Computer Science, [Insert University Name], [Insert Graduation Date]
+- Bachelor's degree in Computer Science, Abia state University, 2021
 
 ## Skills
 
