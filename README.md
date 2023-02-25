@@ -1,16 +1,44 @@
 ### Hi there 👋
 
-<!--
-**radiancegeorge/radiancegeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Radiance Obi
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a full stack web developer with some background in DevOps. I have a degree in Computer Science and I am proficient in HTML, CSS, JavaScript, TypeScript, Node.js, MySQL, MongoDB, Redis, Git, Jira, Web3.js, Docker, Kubernetes, React, Express.js, Photoshop, and have experience with After Effects. I pay attention to detail and am a fast learner.
+
+## Work Experience
+
+- Software Engineer at Swirge, 2021 - Present
+
+## Notable Projects
+
+- [Swirge](https://swirge.com/) - A social network and decentralized financial ecosystem that I worked on as a full stack developer.
+
+## Education
+
+- Bachelor's degree in Computer Science, [Insert University Name], [Insert Graduation Date]
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- Node.js
+- MySQL
+- MongoDB
+- Redis
+- Git
+- Jira
+- Web3.js
+- Docker
+- Kubernetes
+- React
+- Express.js
+- Photoshop
+
+## Interests/Hobbies
+
+- Music production
+- Video games
+- Swimming
