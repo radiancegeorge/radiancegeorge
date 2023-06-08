@@ -25,6 +25,7 @@ I am a full stack web developer with some background in DevOps. I have a degree 
 - JavaScript
 - TypeScript
 - Node.js
+- Solidity
 - MySQL
 - MongoDB
 - Redis
@@ -33,6 +34,7 @@ I am a full stack web developer with some background in DevOps. I have a degree 
 - Web3.js
 - Docker
 - Kubernetes
+- Terraform
 - React
 - Express.js
 - Photoshop
