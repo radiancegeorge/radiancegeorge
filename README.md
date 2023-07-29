@@ -38,6 +38,8 @@ I am a full stack web developer with some background in DevOps. I have a degree 
 - React
 - Express.js
 - Photoshop
+- Terraform
+- react Native
 
 ## Interests/Hobbies
 
